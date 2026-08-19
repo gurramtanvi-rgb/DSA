@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gurramtanvi-rgb/DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurramtanvi-rgb/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/gurramtanvi-rgb/DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/gurramtanvi-rgb/DSA/tree/master/0485-max-consecutive-ones) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/gurramtanvi-rgb/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -106,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
