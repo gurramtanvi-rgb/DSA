@@ -4,7 +4,7 @@ public:
         
         int n = nums.size();
         unordered_map<int,int> m;
-        int ans;
+        int ans=0;
         for(int i=0;i<n;i++){
             m[nums[i]]++;
         }
@@ -17,7 +17,6 @@ public:
               ans = x.first;
            }
         }
-
         return ans;
     }
 };
