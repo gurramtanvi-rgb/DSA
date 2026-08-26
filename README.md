@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gurramtanvi-rgb/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/gurramtanvi-rgb/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/gurramtanvi-rgb/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/gurramtanvi-rgb/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/gurramtanvi-rgb/DSA/tree/master/0075-sort-colors) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/gurramtanvi-rgb/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/gurramtanvi-rgb/DSA/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/gurramtanvi-rgb/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/gurramtanvi-rgb/DSA/tree/master/0326-power-of-three) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gurramtanvi-rgb/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/gurramtanvi-rgb/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Bit Manipulation
 |  |
