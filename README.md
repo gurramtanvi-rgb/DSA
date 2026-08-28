@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/gurramtanvi-rgb/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/gurramtanvi-rgb/DSA/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurramtanvi-rgb/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/gurramtanvi-rgb/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/gurramtanvi-rgb/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gurramtanvi-rgb/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gurramtanvi-rgb/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gurramtanvi-rgb/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gurramtanvi-rgb/DSA/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/gurramtanvi-rgb/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/gurramtanvi-rgb/DSA/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
@@ -155,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
