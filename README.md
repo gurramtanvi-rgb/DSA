@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/gurramtanvi-rgb/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/1191-k-concatenation-maximum-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/gurramtanvi-rgb/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/gurramtanvi-rgb/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/gurramtanvi-rgb/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
