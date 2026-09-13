@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gurramtanvi-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurramtanvi-rgb/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/gurramtanvi-rgb/DSA/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gurramtanvi-rgb/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/gurramtanvi-rgb/DSA/tree/master/0344-reverse-string) |
 ## Counting Sort
 |  |
 | ------- |
