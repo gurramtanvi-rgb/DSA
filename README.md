@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurramtanvi-rgb/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/gurramtanvi-rgb/DSA/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurramtanvi-rgb/DSA/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gurramtanvi-rgb/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/gurramtanvi-rgb/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gurramtanvi-rgb/DSA/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Counting Sort
 |  |
 | ------- |
