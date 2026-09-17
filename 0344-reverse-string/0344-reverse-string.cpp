@@ -7,10 +7,7 @@ public:
         int left = 0;
 
         while(left<right){
-            int temp;
-            temp = s[right];
-            s[right]=s[left];
-            s[left]=temp;
+            swap(s[left],s[right]);
 
             right--;
             left++;
