@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/gurramtanvi-rgb/DSA/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/gurramtanvi-rgb/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/gurramtanvi-rgb/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/gurramtanvi-rgb/DSA/tree/master/0326-power-of-three) |
@@ -207,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gurramtanvi-rgb/DSA/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gurramtanvi-rgb/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gurramtanvi-rgb/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
