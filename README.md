@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gurramtanvi-rgb/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/gurramtanvi-rgb/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/gurramtanvi-rgb/DSA/tree/master/0031-next-permutation) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gurramtanvi-rgb/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/gurramtanvi-rgb/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gurramtanvi-rgb/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gurramtanvi-rgb/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/gurramtanvi-rgb/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/gurramtanvi-rgb/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gurramtanvi-rgb/DSA/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/gurramtanvi-rgb/DSA/tree/master/0647-palindromic-substrings) |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gurramtanvi-rgb/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
