@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/gurramtanvi-rgb/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/1191-k-concatenation-maximum-sum) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gurramtanvi-rgb/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gurramtanvi-rgb/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/gurramtanvi-rgb/DSA/tree/master/1470-shuffle-the-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gurramtanvi-rgb/DSA/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/gurramtanvi-rgb/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gurramtanvi-rgb/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/gurramtanvi-rgb/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gurramtanvi-rgb/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gurramtanvi-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gurramtanvi-rgb/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/gurramtanvi-rgb/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
