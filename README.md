@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/gurramtanvi-rgb/DSA/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/gurramtanvi-rgb/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/gurramtanvi-rgb/DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/gurramtanvi-rgb/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/gurramtanvi-rgb/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gurramtanvi-rgb/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
