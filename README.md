@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gurramtanvi-rgb/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/gurramtanvi-rgb/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurramtanvi-rgb/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gurramtanvi-rgb/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/gurramtanvi-rgb/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/gurramtanvi-rgb/DSA/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/gurramtanvi-rgb/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/gurramtanvi-rgb/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0263-ugly-number) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gurramtanvi-rgb/DSA/tree/master/0258-add-digits) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gurramtanvi-rgb/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
