@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/gurramtanvi-rgb/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/gurramtanvi-rgb/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1191-k-concatenation-maximum-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/1191-k-concatenation-maximum-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gurramtanvi-rgb/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/gurramtanvi-rgb/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/gurramtanvi-rgb/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/gurramtanvi-rgb/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gurramtanvi-rgb/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
