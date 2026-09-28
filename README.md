@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gurramtanvi-rgb/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/gurramtanvi-rgb/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/gurramtanvi-rgb/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gurramtanvi-rgb/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/gurramtanvi-rgb/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/gurramtanvi-rgb/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gurramtanvi-rgb/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gurramtanvi-rgb/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gurramtanvi-rgb/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/gurramtanvi-rgb/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Sorting
 |  |
