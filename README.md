@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gurramtanvi-rgb/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gurramtanvi-rgb/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1732-find-the-highest-altitude](https://github.com/gurramtanvi-rgb/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/gurramtanvi-rgb/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gurramtanvi-rgb/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gurramtanvi-rgb/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gurramtanvi-rgb/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/gurramtanvi-rgb/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gurramtanvi-rgb/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/gurramtanvi-rgb/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gurramtanvi-rgb/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gurramtanvi-rgb/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Greedy
 |  |
 | ------- |
