@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/gurramtanvi-rgb/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gurramtanvi-rgb/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gurramtanvi-rgb/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gurramtanvi-rgb/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/gurramtanvi-rgb/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gurramtanvi-rgb/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/gurramtanvi-rgb/DSA/tree/master/0383-ransom-note) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gurramtanvi-rgb/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
