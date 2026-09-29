@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/gurramtanvi-rgb/DSA/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/gurramtanvi-rgb/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/gurramtanvi-rgb/DSA/tree/master/0875-koko-eating-bananas) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/gurramtanvi-rgb/DSA/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/gurramtanvi-rgb/DSA/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
