@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/gurramtanvi-rgb/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/gurramtanvi-rgb/DSA/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/gurramtanvi-rgb/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/gurramtanvi-rgb/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/gurramtanvi-rgb/DSA/tree/master/0258-add-digits) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gurramtanvi-rgb/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/gurramtanvi-rgb/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/gurramtanvi-rgb/DSA/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/gurramtanvi-rgb/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gurramtanvi-rgb/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/gurramtanvi-rgb/DSA/tree/master/0383-ransom-note) |
