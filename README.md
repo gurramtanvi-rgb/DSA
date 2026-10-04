@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurramtanvi-rgb/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/gurramtanvi-rgb/DSA/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/gurramtanvi-rgb/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gurramtanvi-rgb/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0503-next-greater-element-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/gurramtanvi-rgb/DSA/tree/master/0367-valid-perfect-square) |
+| [0456-132-pattern](https://github.com/gurramtanvi-rgb/DSA/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/gurramtanvi-rgb/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/gurramtanvi-rgb/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/gurramtanvi-rgb/DSA/tree/master/0875-koko-eating-bananas) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/gurramtanvi-rgb/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/gurramtanvi-rgb/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/gurramtanvi-rgb/DSA/tree/master/0735-asteroid-collision) |
@@ -303,8 +306,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/gurramtanvi-rgb/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/gurramtanvi-rgb/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/gurramtanvi-rgb/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gurramtanvi-rgb/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/gurramtanvi-rgb/DSA/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
