@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/gurramtanvi-rgb/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/gurramtanvi-rgb/DSA/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/gurramtanvi-rgb/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/gurramtanvi-rgb/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/gurramtanvi-rgb/DSA/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0227-basic-calculator-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/gurramtanvi-rgb/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gurramtanvi-rgb/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/gurramtanvi-rgb/DSA/tree/master/0383-ransom-note) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0227-basic-calculator-ii) |
 | [0456-132-pattern](https://github.com/gurramtanvi-rgb/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/gurramtanvi-rgb/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0503-next-greater-element-ii) |
