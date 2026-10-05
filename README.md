@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/gurramtanvi-rgb/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gurramtanvi-rgb/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gurramtanvi-rgb/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gurramtanvi-rgb/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurramtanvi-rgb/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gurramtanvi-rgb/DSA/tree/master/0162-find-peak-element) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/gurramtanvi-rgb/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/gurramtanvi-rgb/DSA/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gurramtanvi-rgb/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/gurramtanvi-rgb/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/gurramtanvi-rgb/DSA/tree/master/0189-rotate-array) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gurramtanvi-rgb/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0227-basic-calculator-ii) |
 | [0456-132-pattern](https://github.com/gurramtanvi-rgb/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/gurramtanvi-rgb/DSA/tree/master/0496-next-greater-element-i) |
