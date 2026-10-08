@@ -9,13 +9,11 @@ public:
        for(int i =0;i<s.size();i++){
            
         if(!st.empty()){   
-           if(s[i] == '(' || s[i]=='{' || s[i]=='['){
+           if(s[i] == '('){
               st.push_back(s[i]);
               top++;
            }
-           else if((st[top] == '(' && s[i] == ')') || 
-           (st[top] == '{' && s[i] == '}') || 
-           (st[top] == '[' && s[i] == ']')){
+           else if((st[top] == '(' && s[i] == ')')){
               st.pop_back();
               top--;
            }
