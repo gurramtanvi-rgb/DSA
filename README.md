@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/gurramtanvi-rgb/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gurramtanvi-rgb/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/gurramtanvi-rgb/DSA/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/gurramtanvi-rgb/DSA/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/gurramtanvi-rgb/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/gurramtanvi-rgb/DSA/tree/master/1191-k-concatenation-maximum-sum) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gurramtanvi-rgb/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/gurramtanvi-rgb/DSA/tree/master/0338-counting-bits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
