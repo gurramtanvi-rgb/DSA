@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gurramtanvi-rgb/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/gurramtanvi-rgb/DSA/tree/master/0326-power-of-three) |
 ## Matrix
 |  |
@@ -362,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/gurramtanvi-rgb/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gurramtanvi-rgb/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
