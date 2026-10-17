@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/gurramtanvi-rgb/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gurramtanvi-rgb/DSA/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/gurramtanvi-rgb/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/gurramtanvi-rgb/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gurramtanvi-rgb/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gurramtanvi-rgb/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/gurramtanvi-rgb/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/gurramtanvi-rgb/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/gurramtanvi-rgb/DSA/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/gurramtanvi-rgb/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/gurramtanvi-rgb/DSA/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/gurramtanvi-rgb/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/gurramtanvi-rgb/DSA/tree/master/0227-basic-calculator-ii) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gurramtanvi-rgb/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/gurramtanvi-rgb/DSA/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/gurramtanvi-rgb/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/gurramtanvi-rgb/DSA/tree/master/0844-backspace-string-compare) |
